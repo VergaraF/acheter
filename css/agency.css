@@ -175,8 +175,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fed136;
+
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial;
+    color: #FEC503;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -252,12 +253,15 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #222;
+        padding: 12px 0;
+        background-color: #3A5795;
     }
 
+
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        color: white;
+        font-weight: bold;
+        font-size: 3.5em;
     }
 }
 
